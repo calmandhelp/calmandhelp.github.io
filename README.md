@@ -35,3 +35,4 @@
 - [botapeer-openapi](https://github.com/calmandhelp/botapeer-openapi)
   - OpenAPIリポジトリ
    - GitHub Actions
+   - GitHub Packages
