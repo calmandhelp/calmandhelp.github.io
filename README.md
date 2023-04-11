@@ -12,15 +12,15 @@
 
 - [botapeer-core](https://github.com/calmandhelp/botapeer-core)  
   - バックエンドリポジトリ
-    - Spring boot
-      - Spring MVC
-      - Spring Security
-    - クリーンアーキテクチャ
-    - JUnit5（単体テスト）
-    - Docker（開発環境、デバッグ環境、テスト環境などをdocker-composeしております。コマンドはmakeで叩きます）
-    - MySQL、MyBatis, Flyway
-    - GitHub Packages（openapi）
-    - 本番環境はECS
+   - Spring boot
+    - Spring MVC
+    - Spring Security
+   - クリーンアーキテクチャ
+   - JUnit5（単体テスト）
+   - Docker（開発環境、デバッグ環境、テスト環境などをdocker-composeしております。コマンドはmakeで叩きます）
+   - MySQL、MyBatis, Flyway
+   - GitHub Packages（openapi）
+   - 本番環境はECS
 - [botapeer-front](https://github.com/calmandhelp/botapeer-front)
   - フロントエンドリポジトリ
    - Next.js(React)
@@ -30,8 +30,8 @@
    - 本番環境はApp Runner
 - [botapeer-infra](https://github.com/calmandhelp/botapeer-infra)
   - インフラプリポジトリ
-    - Terraform
-    - AWS(VPC, VPC endpoint,EC2, ECS, ESR S3, RDS, ALB, SSM Parameter Store, CloudFront, App Runner, CloudWatch, Route53, ACM)
+   - Terraform
+   - AWS(VPC, VPC endpoint,EC2, ECS, ESR S3, RDS, ALB, SSM Parameter Store, CloudFront, App Runner, CloudWatch, Route53, ACM)
 - [botapeer-openapi](https://github.com/calmandhelp/botapeer-openapi)
   - OpenAPIリポジトリ
-    - GitHub Actions
+   - GitHub Actions
