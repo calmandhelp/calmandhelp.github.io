@@ -36,3 +36,8 @@
   - OpenAPIリポジトリ
    - GitHub Actions
    - GitHub Packages
+
+## 開発環境
+- MacBook Pro（Intelチップ）
+- IntelliJ
+- GitHub Copilot
