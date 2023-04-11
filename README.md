@@ -18,7 +18,7 @@
    - クリーンアーキテクチャ
    - JUnit5（単体テスト）
    - Docker（開発環境、デバッグ環境、テスト環境などをdocker-composeしております。コマンドはmakeで叩きます）
-   - MySQL、MyBatis, Flyway
+   - MySQL、MyBatis、Flyway
    - GitHub Packages（openapi）
    - 本番環境はECS
 - [botapeer-front](https://github.com/calmandhelp/botapeer-front)
