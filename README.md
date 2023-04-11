@@ -29,7 +29,7 @@
    - サブモジュール（openapi）
    - 本番環境はApp Runner
 - [botapeer-infra](https://github.com/calmandhelp/botapeer-infra)
-  - インフラプリポジトリ
+  - インフラリポジトリ
    - Terraform
    - AWS(VPC, VPC endpoint,EC2, ECS, ESR S3, RDS, ALB, SSM Parameter Store, CloudFront, App Runner, CloudWatch, Route53, ACM)
 - [botapeer-openapi](https://github.com/calmandhelp/botapeer-openapi)
