@@ -11,7 +11,7 @@
 リポジトリは4つに分かれております。  
 
 - [botapeer-core](https://github.com/calmandhelp/botapeer-core)  
-  - バックエンド
+  - バックエンドリポジトリ
     - Spring boot
       - Spring MVC
       - Spring Security
@@ -22,16 +22,16 @@
     - GitHub Packages（openapi）
     - 本番環境はECS
 - [botapeer-front](https://github.com/calmandhelp/botapeer-front)
-  - フロントエンドプロジェクト
+  - フロントエンドリポジトリ
    - Next.js(React)
    - Material UI
    - emotion
    - サブモジュール（openapi）
    - 本番環境はApp Runner
 - [botapeer-infra](https://github.com/calmandhelp/botapeer-infra)
-  - インフラ
+  - インフラプリポジトリ
     - Terraform
     - AWS(VPC, VPC endpoint,EC2, ECS, ESR S3, RDS, ALB, SSM Parameter Store, CloudFront, App Runner, CloudWatch, Route53, ACM)
 - [botapeer-openapi](https://github.com/calmandhelp/botapeer-openapi)
-  - OpenAPI
+  - OpenAPIリポジトリ
     - GitHub Actions
