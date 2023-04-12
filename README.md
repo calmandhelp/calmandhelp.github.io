@@ -1,7 +1,7 @@
 ## 自己紹介
 エンジニアのcalmandhelp（かむ）です。  
 金融系のプロジェクトを3年、営業系のプロジェクトを半年経験しました。  
-主に扱う技術はJava(Spring framework)、React.js（Next.js）、AWSなどです。  
+主に扱う技術はJava(Spring framework)、React.js（Next.js）、AWSなどです。
 
 このページの情報は随時追加していきます。
 
@@ -36,6 +36,8 @@
   - OpenAPIリポジトリ
    - GitHub Actions
    - GitHub Packages
+
+*現在ポートフォリオを閲覧可能にするために作業中です。しばらくお待ちださい。
 
 ## 開発環境
 - MacBook Pro（Intelチップ）
