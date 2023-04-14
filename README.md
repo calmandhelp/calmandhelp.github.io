@@ -37,7 +37,7 @@
    - GitHub Actions
    - GitHub Packages
 
-以下が現在公開されているポートフォリオです。  
+以下が現在公開されているポートフォリオです。（現在停止中）
 [https://botapeer.com/](https://botapeer.com)
 
 ### ポートフォリオの使い方
