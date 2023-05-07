@@ -1,7 +1,7 @@
 ## 自己紹介
 エンジニアのcalmandhelp（かむ）です。  
 金融系のプロジェクトを3年、営業系のプロジェクトを半年経験しました。  
-主に扱う技術はJava(Spring framework)、React.js（Next.js）、AWSなどです。
+主に扱う技術はJava(Spring framework)、AWS、React.js（Next.js）などです。
 
 このページの情報は随時追加していきます。
 
