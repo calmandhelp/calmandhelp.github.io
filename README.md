@@ -1,7 +1,7 @@
 ## 自己紹介
 広告代理店でマークアップエンジニアとして2年、プログラミングを行うエンジニアとしては4年ほどの経験があります。
 
-React.js（Next.js）、Typescript、Java(Spring framework)、AWSなどがメインで活動しております。
+React.js（Next.js）、Typescript、Java(Spring framework)、AWSなどがメインで活動しております。 
 ポートフォリオは現在停止しているためソースコードのみご確認いただけます。
 
 ## ポートフォリオ
